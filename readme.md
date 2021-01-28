@@ -9,5 +9,5 @@ https://sjefvanleeuwen.morstead.nl
 | branch | purpose                     |
 |--------|-----------------------------|
 | main   | informational, you are here |
-| dev    | development                 |
-| site   | publish                     |
+| [dev](https://github.com/sjefvanleeuwen/blog/tree/dev) | development                 |
+|  [publish](https://github.com/sjefvanleeuwen/blog/tree/site)   | publish                     |
