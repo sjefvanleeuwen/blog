@@ -10,4 +10,4 @@ https://sjefvanleeuwen.morstead.nl
 |--------|-----------------------------|
 | main   | informational, you are here |
 | [dev](https://github.com/sjefvanleeuwen/blog/tree/dev) | development                 |
-|  [publish](https://github.com/sjefvanleeuwen/blog/tree/site)   | publish                     |
+|  [site](https://github.com/sjefvanleeuwen/blog/tree/site)   | publish                     |
